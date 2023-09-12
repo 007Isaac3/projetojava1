@@ -12,8 +12,6 @@ public class Pessoa {
 	
 	private Date dataNascimento;
 	
-	
-	
 	public Date getDataNascimento() {
 		return dataNascimento;
 	}
